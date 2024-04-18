@@ -1,0 +1,26 @@
+structure of class:
+e.g. accounting 115 
+
+length varies 
+
+but each subarray consists of a section
+1. class abbrev. (ACCT115)
+2. class full. (FUND OF FINANCIAL ACCOUNTING)
+3. number of credits. (3)
+followed by arrays where each array consists of the following below
+the below is  
+0. class abbrev. (ACCT115)
+1. call # (90001)
+2. section number. (001)
+3. people enrolled (1/15)
+4. professor (Micale, Joseph)
+5. idk (0)
+6. idk (0)
+7. idk ('')
+8. class full. (FUND OF FINANCIAL ACCOUNTING)
+followed by an array with subarrays where each array stores data for visual (days of week, etc)
+1. day of week (1 = sunday, 2 = monday, etc)(3)
+2. idk (30600)
+3. idk (35400)
+4. room (KUPF 206)
+
